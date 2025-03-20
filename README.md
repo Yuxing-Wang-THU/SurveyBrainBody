@@ -66,7 +66,6 @@ Here is a quick menu .^_^. : </p>
 - [:door: Brain-Body Co-Design in the Real World](#door-brain-body-co-design-in-the-real-world)
 - [:book: Other Surveys Recommended](#book-other-surveys-recommended)
 - [:envelope: Contact Information](#envelope-contact-information)
-- [:star: Star History](#star-star-history)
 
 ## Taxonomy of BBCD
 <p style="text-align:justify;"> 
@@ -97,6 +96,9 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
 |[LASeR: LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models](https://openreview.net/forum?id=7mlvOHL6qJ)|**ICLR 2025**|Modular Soft Robot|[Code](https://github.com/WoodySJR/LASeR)|
 |[Generating Freeform Endoskeletal Robots](https://arxiv.org/abs/2412.01036)|**ICLR 2025**|Endoskeletal Robot|[Code](https://github.com/iffiX/endoskeletal)&[Page](https://endoskeletal.github.io/)|
 |[Accelerated co-design of robots through morphological pretraining](https://arxiv.org/pdf/2502.10862)|**Arxiv 2025**|Modular Robot|[Page](https://sites.google.com/view/co-design-mpt)|
+|[BodyGen: Advancing Towards Efficient Embodiment Co-Design](https://arxiv.org/pdf/2503.00533)|**ICLR 2025**|Rigid-bodied Robot|[Page](https://genesisorigin.github.io/)&[Code](https://github.com/GenesisOrigin/BodyGen)|
+
+
 
 # :one: Bi-Level Brain-Body Co-Design
 <div align=center><img src="images/bilevel.jpg" width="50%"></div>
@@ -191,6 +193,7 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
 |[Symmetry-Aware Robot Design with Structured Subgroups](https://proceedings.mlr.press/v202/dong23h/dong23h.pdf)|**ICML 2023**|Rigid-bodied robot|[Code](https://github.com/drdh/SARD)&[Page](https://sites.google.com/view/robot-design)|
 |[CompetEvo: Towards Morphological Evolution from Competition](https://arxiv.org/pdf/2405.18300)|**IJCAI 2024**|Rigid bodied Robot|[Code](https://github.com/KJaebye/competevo)&[Page](https://competevo.github.io/)|
 |[Reinforcement learning for freeform robot design](https://arxiv.org/pdf/2310.05670)|**ICRA 2024**|Modular Soft Robot|[Code](https://github.com/iffiX/RL4design)&[Page](https://www.youtube.com/watch?v=ybaEVDGvkTE)|
+|[BodyGen: Advancing Towards Efficient Embodiment Co-Design](https://arxiv.org/pdf/2503.00533)|**ICLR 2025**|Rigid-bodied Robot|[Page](https://genesisorigin.github.io/)&[Code](https://github.com/GenesisOrigin/BodyGen)|
 
 ## Physics-Based Methods
 <b>TLDR: Methods that focus on optimizing morphology and control simultaneously using Differentiable Simulation (physics-model based).</b>
@@ -330,6 +333,3 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
-
-# :star: Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Yuxing-Wang-THU/Awesome-Brain-Body-Co-Design-of-Embodied-Agents&type=Date)](https://star-history.com/#Yuxing-Wang-THU/Awesome-Brain-Body-Co-Design-of-Embodied-Agents)
