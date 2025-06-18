@@ -8,12 +8,14 @@
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuxing-Wang-THU.Awesome-Brain-Body-Co-Design-of-Embodied-Agent&left_color=green&right_color=red)
 ![GitHub stars](https://img.shields.io/github/stars/Yuxing-Wang-THU/Awesome-Brain-Body-Co-Design-of-Embodied-Agents.svg?style=flat&label=Star)
-# 🚀 Brain-Body Co-Design for Embodied Agents: A Survey of Neural Approaches
+# 🚀 Brain-Body Co-Design in Embodied Intelligence: Taxonomy, Frontiers, and Challenges
 <p style="text-align:justify;"> Human bodies have been carefully refined through the long process of evolution, enabling us to utilize our bodies to solve a multitude of tasks skillfully. This capability, natural to humans, remains challenging for embodied agents, such as robots. The difficulty arises because successful interactions are highly dependent on the synergy between brain, body, and environment. Recent breakthroughs in vision, language, and robotics have significantly improved the sensorimotor learning capabilities of embodied agents. Alongside the great potential of sensorimotor learning for understanding the world, the concept of <b>Brain-Body Co-Design (BBCD), namely, Automated Agent Design</b> has attracted considerable cross-disciplinary attention. Unlike traditional agent design approaches, which focus primarily on optimizing an agent’s control mechanism ("brain") while keeping its morphological structure ("body") and task configurations ("environment") fixed, BBCD emphasizes their simultaneous coordination, to design embodied agents that are not only structurally sound but also behaviorally adept.</p>
 
 <div align=center><img src="images/cover4.jpg" width="99%"></div>
 
-<p style="text-align:justify;"><b>🔑 Contributions to Embodied AI:</b> In this survey, we systematically analyze the contemporary neural-driven BBCD in the context of Embodied AI, covering both <b>simulated</b> and <b>real-world</b> settings. Importantly, we introduce a novel framework to categorize the state-of-the-art BBCD approaches, under which we analyze their co-design spaces, methodologies, and applications. In addition, we highlight the current challenges in this field and provide insights for potentially interesting future directions. We hope that this survey can serve as a reference-worthy and stimulating contribution to the advancement of embodied intelligence while also providing valuable perspectives for related fields.</p></b>
+<p style="text-align:justify;"><b>🔑 Contributions to Embodied AI:</b> This paper surveys recent advancements in BBCD within the context of embodied intelligence. We introduce a novel taxonomy that provides a structured analysis of the representations, co-design spaces, and optimization frameworks employed in state-of-the-art BBCD methods. We review notable benchmarks and applications of BBCD in simulated and real-world environments. We identify significant open challenges and offer insights into promising future research directions.
+
+ We hope that this survey can serve as a reference-worthy and stimulating contribution to the advancement of embodied intelligence while also providing valuable perspectives for related fields.</p></b>
 
 # 📋 Update List
 
@@ -36,12 +38,12 @@ The process to submit a pull request is as follows:
 <p style="text-align:justify;">
 Here is a quick menu .^_^. : </p>
   
-- [🚀 Brain-Body Co-Design for Embodied Agents: A Survey of Neural Approaches](#-brain-body-co-design-for-embodied-agents-a-survey-of-neural-approaches)
+- [🚀 Brain-Body Co-Design in Embodied Intelligence: Taxonomy, Frontiers, and Challenges](#-brain-body-co-design-in-embodied-intelligence-taxonomy-frontiers-and-challenges)
 - [📋 Update List](#-update-list)
 - [🔥 Comments](#-comments)
 - [🎥 Overview](#-overview)
 	- [Taxonomy of BBCD](#taxonomy-of-bbcd)
-	- [BBCD's Framework](#bbcds-framework)
+	- [Optimization Frameworks of BBCD](#optimization-frameworks-of-bbcd)
 - [:star: Latest Works](#star-latest-works)
 - [:one: Bi-Level Brain-Body Co-Design](#one-bi-level-brain-body-co-design)
 	- [ERL-Based Methods](#erl-based-methods)
@@ -63,7 +65,7 @@ Here is a quick menu .^_^. : </p>
 	- [Others](#others)
 - [:five: Theoretical and Experimental Analysis of Brain-Body Co-Design](#five-theoretical-and-experimental-analysis-of-brain-body-co-design)
 - [:computer: Simulated Benchmarks for Brain-Body Co-Design](#computer-simulated-benchmarks-for-brain-body-co-design)
-- [:door: Brain-Body Co-Design in the Real World](#door-brain-body-co-design-in-the-real-world)
+- [:door: BBCD in Real World](#door-bbcd-in-real-world)
 - [:book: Other Surveys Recommended](#book-other-surveys-recommended)
 - [:envelope: Contact Information](#envelope-contact-information)
 
@@ -76,15 +78,15 @@ The creation of an embodied agent hinges on three critical components: <b>Brain 
 
 <p style="text-align:justify;"><b>2. Body (Morphology)</b>: The physical embodiment (hardware) of an agent, including its shape, material properties, sensor placement, etc. Morphological design determines the agent’s physical capabilities and constraints, thereby impacting its performance and adaptability.</p>
 
-<p style="text-align:justify;"><b>3. Environment (Task)</b>: This includes both task-specific conditions and broader environmental configurations. It not only defines the challenge faced by an agent but also provides the necessary feedback for learning and adaptation. Task requirements and environmental dynamics are crucial for shaping the agent’s behavior and learning objectives.</p>
+<p style="text-align:justify;"><b>3. Environment (Interaction constraints)</b>: This includes both task-specific conditions and broader environmental configurations. It not only defines the challenge faced by an agent but also provides the necessary feedback for learning and adaptation. Task requirements and environmental dynamics are crucial for shaping the agent’s behavior and learning objectives.</p>
 
-<p style="text-align:justify;"><b>4. Co-Design Algorithm (A machine that can co-design other machines)</b>: An effective co-design algorithm integrates the optimization of control, morphology, and environmental interactions. Unlike traditional methods that treat these components separately, co-design algorithms aim to simultaneously refine all aspects, leading to more efficient and adaptive agents. These algorithms leverage advanced techniques to explore and exploit the co-design space, optimizing for performance across diverse tasks and environments.</p>
+<p style="text-align:justify;"><b>4. Co-Design Algorithm (A machine that can design other machines)</b>: An effective co-design algorithm integrates the optimization of control, morphology, and environmental interactions. Unlike traditional methods that treat these components separately, co-design algorithms aim to simultaneously refine all aspects, leading to more efficient and adaptive agents. These algorithms leverage advanced techniques to explore and exploit the co-design space, optimizing for performance across diverse tasks and environments.</p>
 
 <div align=center><img src="images/tax.png" width="95%"></div>
 
-<b>:book: We provide a detailed analysis of current neural-driven BBCD methods based on the proposed taxonomy. Please refer to our paper when it is available online.</b>
+<b>:book: We provide a detailed analysis of BBCD methods based on the proposed taxonomy. Please refer to our paper when it is available online.</b>
 
-## BBCD's Framework
+## Optimization Frameworks of BBCD
 The following picture introduces 4 general BBCD frameworks, with the last sub-figure showing an example of the BBCD process for creating a BipedalWalker agent.
 <div align=center><img src="images/over.png" width="100%"></div>
 
@@ -97,7 +99,10 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
 |[Generating Freeform Endoskeletal Robots](https://arxiv.org/abs/2412.01036)|**ICLR 2025**|Endoskeletal Robot|[Code](https://github.com/iffiX/endoskeletal)&[Page](https://endoskeletal.github.io/)|
 |[Accelerated co-design of robots through morphological pretraining](https://arxiv.org/pdf/2502.10862)|**Arxiv 2025**|Modular Robot|[Page](https://sites.google.com/view/co-design-mpt)|
 |[BodyGen: Advancing Towards Efficient Embodiment Co-Design](https://arxiv.org/pdf/2503.00533)|**ICLR 2025**|Rigid-bodied Robot|[Page](https://genesisorigin.github.io/)&[Code](https://github.com/GenesisOrigin/BodyGen)|
-
+|[RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/pdf/2506.00276?)|**Arxiv 2025**|Rigid-bodied Robot|-|
+|[Cross-Task Collaborative Optimization Based on Knowledge Transfer for Soft Robot Design](https://ieeexplore.ieee.org/abstract/document/11015931)|**TEVC 2025**|Modular Soft Robot|-|
+|[Controller Distillation Reduces Fragile Brain-Body Co-Adaptation and Enables Migrations in MAP-Elites](https://arxiv.org/pdf/2504.06523)|**GECCO 2025**|Modular Soft Robot|[Code](https://github.com/mertan-a/pollination)|
+|[Large Language Models as Natural Selector for Embodied Soft Robot Design](https://arxiv.org/pdf/2503.02249)|**Arxiv 2025**|Modular Soft Robot|[Code](https://github.com/AisenGinn/evogym_data_generation)|
 
 
 # :one: Bi-Level Brain-Body Co-Design
@@ -146,7 +151,7 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
 |Paper| Published in |Co-Designed Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
 [A ’MAP’ to find high-performing soft robot designs: Traversing complex design spaces using MAP-elites and Topology Optimization](https://arxiv.org/pdf/2407.07591)|**IROS 2024**|Rigid Manipulator|N/A|
-
+|[Controller Distillation Reduces Fragile Brain-Body Co-Adaptation and Enables Migrations in MAP-Elites](https://arxiv.org/pdf/2504.06523)|**GECCO 2025**|Modular Soft Robot|[Code](https://github.com/mertan-a/pollination)|
 ## Other Methods
 |Paper| Published in |Co-Designed Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -251,6 +256,8 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
 |[LLM-POET: Evolving Complex Environments using Large Language Models](https://arxiv.org/pdf/2406.04663)|**GECCO 2024 Companion**|Modular soft robot|N/A|
 |[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**Arxiv 2024**|Rigid-bodied Robot|-|
 |[LASeR: LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models](https://openreview.net/forum?id=7mlvOHL6qJ)|**ICLR 2025**|Modular Soft Robot|[Code](https://github.com/WoodySJR/LASeR)|
+|[RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/pdf/2506.00276?)|**Arxiv 2025**|Rigid-bodied Robot|-|
+|[Large Language Models as Natural Selector for Embodied Soft Robot Design](https://arxiv.org/pdf/2503.02249)|**Arxiv 2025**|Modular Soft Robot|[Code](https://github.com/AisenGinn/evogym_data_generation)|
 
 # :four: Open-Ended Co-Design Methods
 <div align=center><img src="images/open.jpg" width="50%"></div>
@@ -305,7 +312,7 @@ The following picture introduces 4 general BBCD frameworks, with the last sub-fi
 |**Sorotoki**</br>[Code](https://github.com/BJCaasenbrood/SorotokiCode)&[Page](https://bjcaasenbrood.github.io/SorotokiCode/)|[Sorotoki: A Matlab Toolkit for Design, Modeling, and Control of Soft Robots (IEEE ACCESS)](https://openreview.net/pdf?id=1zo4iioUEs)|Soft Robot|`No`|
 |**RoboGen**</br>[Code](https://robogen.org/docs/get-started/)&[Page](https://robogen.org/)|[RoboGen: Robot Generation through Artificial Evolution](https://direct.mit.edu/isal/proceedings/alife2014/26/136/99059)|Modular Robot|`No`|
 
-# :door: Brain-Body Co-Design in the Real World
+# :door: BBCD in Real World
 |Paper| Published in |Co-Designed Agent|                               
 |:---------|:---------------------------------------------------|:-------------:|
 |[Real-world reproduction of evolved robot morphologies: Automated categorization and evaluation](https://link.springer.com/chapter/10.1007/978-3-319-16549-3_62)|**EvoApplications 2015**|Legged Robot|
