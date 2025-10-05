@@ -38,24 +38,24 @@ The process to submit a pull request is as follows:
 <p style="text-align:justify;">
 Here is a quick menu .^_^. : </p>
   
-- [🚀 Brain-Body Co-Design for Embodied Agents: Taxonomy, Frontiers, and Challenges](#-brain-body-co-design-in-embodied-intelligence-taxonomy-frontiers-and-challenges)
+- [🚀 Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges](#-brain-body-co-design-in-embodied-intelligence-taxonomy-frontiers-and-challenges)
 - [📋 Update List](#-update-list)
 - [🔥 Comments](#-comments)
 - [🎥 Overview](#-overview)
 	- [Taxonomy of ECD](#taxonomy-of-bbcd)
 	- [Optimization Frameworks of ECD](#optimization-frameworks-of-bbcd)
 - [:star: Latest Works](#star-latest-works)
-- [:one: Bi-Level Brain-Body Co-Design](#one-bi-level-brain-body-co-design)
+- [:one: Bi-Level Co-Design](#one-bi-level-brain-body-co-design)
 	- [ERL-Based Methods](#erl-based-methods)
 	- [Surrogate-Based Methods](#surrogate-based-methods)
 	- [Diversity-Based Methods](#diversity-based-methods)
 	- [Other Methods](#other-methods)
-- [:two: Single-Level Brain-Body Co-Design](#two-single-level-brain-body-co-design)
+- [:two: Single-Level Co-Design](#two-single-level-brain-body-co-design)
 	- [EA-Based Methods](#ea-based-methods)
 	- [RL-Based Methods](#rl-based-methods)
 	- [Physics-Based Methods](#physics-based-methods)
 	- [Other Methods](#other-methods-1)
-- [:three: Generative Brain-Body Co-Design](#three-generative-brain-body-co-design)
+- [:three: Generative Co-Design](#three-generative-brain-body-co-design)
 	- [Rule-Based Generation](#rule-based-generation)
 	- [Latent-Based Generation](#latent-based-generation)
 	- [Large-Model-Based Generation](#large-model-based-generation)
@@ -63,8 +63,8 @@ Here is a quick menu .^_^. : </p>
 	- [Co-Evolution Methods](#co-evolution-methods)
 	- [Developmental Methods](#developmental-methods)
 	- [Others](#others)
-- [:five: Theoretical and Experimental Analysis of Brain-Body Co-Design](#five-theoretical-and-experimental-analysis-of-brain-body-co-design)
-- [:computer: Simulated Benchmarks for Brain-Body Co-Design](#computer-simulated-benchmarks-for-brain-body-co-design)
+- [:five: Theoretical and Experimental Analysis of Embodied Co-Design](#five-theoretical-and-experimental-analysis-of-brain-body-co-design)
+- [:computer: Simulated Benchmarks for Embodied Co-Design](#computer-simulated-benchmarks-for-brain-body-co-design)
 - [:door: ECD in Real World](#door-bbcd-in-real-world)
 - [:book: Other Surveys Recommended](#book-other-surveys-recommended)
 - [:envelope: Contact Information](#envelope-contact-information)
@@ -119,7 +119,11 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[TE-RoboNet: Transfer Enhanced RoboNet for Sample-Efficient Generation of Robot Co-Designs](https://openreview.net/forum?id=sbjbD8ftCH)|**EWRL 2025**|Rigid Robot||
 |[Co-Design and Control of a Biomimetic Snake Robot and its Contact Surfaces with Reinforcement Learning](https://openreview.net/forum?id=fUdHUU2ZCV)|**EWRL 2025**|Snake Robot||
 |[COGENT: Co-design of Robots with GFlowNets](https://openreview.net/forum?id=IfLKMWrroL)|**EWRL 2025**|Modular Robot||
-# :one: Bi-Level Brain-Body Co-Design
+|[Concurrent optimization of modular robots for planetary landforms: A terrain-guided approach based on STGCN-GA](https://link.springer.com/article/10.1007/s42064-024-0259-8)|**Astrodynamics 2025**|Modular Robot||
+|[A Design Co-Pilot for Task-Tailored Manipulators](https://arxiv.org/pdf/2509.13077)|**Arxiv 2025**|Manipulators|[Page](https://cobra.cps.cit.tum.de/tasks?version=2022&metadata__tags=Robot_designer)|
+|[CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids](https://arxiv.org/pdf/2509.14935)|**Arxiv 2025**|Humanoid Robot||
+
+# :one: Bi-Level Co-Design
 <div align=center><img src="images/bilevel.jpg" width="50%"></div>
 
 ## Evolutionary Reinforcement Learning
@@ -143,6 +147,8 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 [Generating Freeform Endoskeletal Robots](https://arxiv.org/pdf/2412.01036)|**ICLR 2025**|Endoskeletal Robot|[Code](https://github.com/iffiX/endoskeletal)&[Page](https://endoskeletal.github.io/)|
 |[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)|**Complex & Intelligent Systems**|Modular Soft Robot|-|
 |[Accelerating Soft Robot Evolution Using N-gram-based Controller Inheritance and Genetic Co-Design](https://dl.acm.org/doi/abs/10.1145/3712255.3726568)|**GECCO 2025**|Modular Soft Robot|-|
+|[Concurrent optimization of modular robots for planetary landforms: A terrain-guided approach based on STGCN-GA](https://link.springer.com/article/10.1007/s42064-024-0259-8)|**Astrodynamics 2025**|Modular Robot||
+
 
 ## Surrogate-Based Methods
 <b>TLDR: Methods that focus on using surrogate models to reduce the computational burden of the co-design process (how to efficiently evaluate a morphology without learning a specific controller?)</b>
@@ -179,7 +185,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 [Evolution and learning in differentiable robots](https://www.roboticsproceedings.org/rss20/p100.pdf)|**RSS 2024**|Modular Soft Robot|[Code](https://github.com/lstrgar/ELDiR)&[Page](https://sites.google.com/view/eldir)|
 [Improving Efficiency of Evolving Robot Designs via Self-Adaptive Learning Cycles and an Asynchronous Architecture](https://dl.acm.org/doi/pdf/10.1145/3638530.3664116)|**GECCO 2024**| Modular Rigid Robot|-|
 
-# :two: Single-Level Brain-Body Co-Design
+# :two: Single-Level Co-Design
 <div align=center><img src="images/ete.jpg" width="50%"></div>
 
 ## EA-Based Methods
@@ -242,7 +248,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 
 ## Other Methods
 
-# :three: Generative Brain-Body Co-Design
+# :three: Generative Co-Design
 <div align=center><img src="images/gen.jpg" width="50%"></div>
 
 ## Rule-Based Generation
@@ -309,7 +315,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Shape change and control of pressure-based soft agents](https://direct.mit.edu/isal/proceedings/isal2022/34/37/112294)|**ALIFE 2022**|Pressure-Based Soft Robot|[Code](https://github.com/pigozzif/PressureSoftAgents)&[Page](https://pressuresoftagents.github.io/)|
 |[DittoGym: Learning to Control Soft Shape-Shifting Robots](https://arxiv.org/pdf/2401.13231)|**ICLR 2024**|Soft Shape-Shifting Robots|[Code](https://github.com/suninghuang19/dittogym)&[Page](https://dittogym.github.io/)|
 
-# :five: Theoretical and Experimental Analysis of Brain-Body Co-Design
+# :five: Theoretical and Experimental Analysis of Embodied Co-Design
 <b>TLDR: Papers that investigates the synergy of Brain, Body, and Environment.</b>
 
 |Paper| Published in |Co-Designed Agent|Code&Page| 
@@ -325,7 +331,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[The Morphology-Control Trade-Off: Insights into Soft Robotic Efficiency](https://arxiv.org/abs/2503.16127)|**Arxiv 2025**|Modular Soft Robot|-|
 |[Selection pressure shapes epistatic gene interactions in the evolution of robots](https://osf.io/ecpfw/download)|-|Modular Robot|[code](https://github.com/karinemiras/revolve2/tree/plasticoding_v3)|
 
-# :computer: Simulated Benchmarks for Brain-Body Co-Design
+# :computer: Simulated Benchmarks for Embodied Co-Design
 
 |Platform|Related Papers|Agent|Differentiable Sim|                              
 |:---------|:--------------------------------------------|:-------------:|:--:|
@@ -364,7 +370,8 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 - [Exploring Embodied Intelligence in Soft Robotics: A Review](https://www.mdpi.com/2313-7673/9/4/248)</br>Zikai Zhao, et al., 2024, Bio-Inspired and Biomimetic Intelligence in Robotics  
 - [Collective Intelligence for Deep Learning: A Survey of Recent Developments](https://journals.sagepub.com/doi/pdf/10.1177/26339137221114874)</br>David Ha and Yujin Tang, 2022, Collective Intelligence  
 - [Bridging evolutionary algorithms and reinforcement learning: A comprehensive survey on hybrid algorithms](https://ieeexplore.ieee.org/abstract/document/10637292)</br>Pengyi Li and Jianye Hao, et al., 2022, IEEE Transactions on Evolutionary Computation  
-- [Design Optimization of Soft Robots: A Review of the State of the Art](https://ieeexplore.ieee.org/document/9237112)</br>FeiFei Chen and Michael Yu Wang, 2022, IEEE Robotics & Automation Magazine  
+- [Design Optimization of Soft Robots: A Review of the State of the Art](https://ieeexplore.ieee.org/document/9237112)</br>FeiFei Chen and Michael Yu Wang, 2022, IEEE Robotics & Automation Magazine
+- [Soft robotics: what’s next in bioinspired design and applications of soft robots?](https://iopscience.iop.org/article/10.1088/1748-3190/ae066d/meta) </br>Cecilia Laschi, Li Wen, Fumiya Iida and others, 2025, Bioinspiration & Biomimetics
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
