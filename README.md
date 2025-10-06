@@ -147,10 +147,9 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 [Generating Freeform Endoskeletal Robots](https://arxiv.org/pdf/2412.01036)|**ICLR 2025**|Endoskeletal Robot|[Code](https://github.com/iffiX/endoskeletal)&[Page](https://endoskeletal.github.io/)|
 |[A multi-objective optimization framework based on information sharing for serially connected robot design](https://link.springer.com/article/10.1007/s40747-025-02045-x)|**Complex & Intelligent Systems**|Modular Soft Robot|-|
 |[Accelerating Soft Robot Evolution Using N-gram-based Controller Inheritance and Genetic Co-Design](https://dl.acm.org/doi/abs/10.1145/3712255.3726568)|**GECCO 2025**|Modular Soft Robot|-|
-|[Concurrent optimization of modular robots for planetary landforms: A terrain-guided approach based on STGCN-GA](https://link.springer.com/article/10.1007/s42064-024-0259-8)|**Astrodynamics 2025**|Modular Robot||
+[Text2Robot: Evolutionary Robot Design from Text Descriptions](https://arxiv.org/pdf/2406.19963)|**ICRA 2025**|Legged Robot|[Code](https://github.com/generalroboticslab/Text2Robot)&[Page](http://www.generalroboticslab.com/blogs/blog/2024-06-28-text2robot/index.html)|
 
-
-## Surrogate-Based Methods
+## Surrogate-Assisted Methods
 <b>TLDR: Methods that focus on using surrogate models to reduce the computational burden of the co-design process (how to efficiently evaluate a morphology without learning a specific controller?)</b>
 
 |Paper| Published in |Co-Designed Agent|Code&Page|                               
@@ -202,6 +201,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Solving deceptive tasks in robot body-brain co-evolution by searching for behavioral novelty](https://ieeexplore.ieee.org/abstract/document/5687250)|**ICISDA 2010**|Rigid Robot|-|
 [A Unified Substrate for Body-Brain Co-evolution](https://arxiv.org/pdf/2203.12066)|**ICLRw 2022**|Vitual Creature|[Code](https://github.com/sidneyp/neural-cellular-robot-substrate)|
 |[Evolution of Developmental Plasticity of Soft Virtual Creatures in Changing Environments](https://ieeexplore.ieee.org/document/10611998)|**CEC 2024**|Modular Soft Robot|N/A|
+|[Concurrent optimization of modular robots for planetary landforms: A terrain-guided approach based on STGCN-GA](https://link.springer.com/article/10.1007/s42064-024-0259-8)|**Astrodynamics 2025**|Modular Robot||
 
 ## RL-Based Methods
 <b>TLDR: Methods that focus on optimizing morphology and control simultaneously using Reinforcement Learning (physics-model free).</b>
@@ -287,7 +287,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[LASeR: LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models](https://openreview.net/forum?id=7mlvOHL6qJ)|**ICLR 2025**|Modular Soft Robot|[Code](https://github.com/WoodySJR/LASeR)|
 |[RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/pdf/2506.00276?)|**Arxiv 2025**|Rigid Robot|-|
 |[Large Language Models as Natural Selector for Embodied Soft Robot Design](https://arxiv.org/pdf/2503.02249)|**Arxiv 2025**|Modular Soft Robot|[Code](https://github.com/AisenGinn/evogym_data_generation)|
-[Text2Robot: Evolutionary Robot Design from Text Descriptions](https://arxiv.org/pdf/2406.19963)|**ICRA 2025**|Legged Robot|[Code](https://github.com/generalroboticslab/Text2Robot)&[Page](http://www.generalroboticslab.com/blogs/blog/2024-06-28-text2robot/index.html)|
+
 
 # :four: Open-Ended Co-Design Methods
 <div align=center><img src="images/open.jpg" width="50%"></div>
