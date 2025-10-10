@@ -288,7 +288,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
-|[Evolution Through Large Models](https://arxiv.org/abs/2206.08896)|**Arxiv 2023**|Robot Gripper|[Code](https://github.com/CarperAI/OpenELM)|
+|[Evolution Through Large Models](https://arxiv.org/abs/2206.08896)|**Arxiv 2023**|Soft Robot|[Code](https://github.com/CarperAI/OpenELM)|
 |[How can LLMs transform the robotic design process?](https://www.nature.com/articles/s42256-023-00669-7)|**Nature Machine Intelligence 2023**|Robot Gripper|-|
 |[DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models](https://arxiv.org/pdf/2302.00905)|**NIPS 2023**|Soft Robot|[Code](https://github.com/EvolutionGym/evogym)&[Page](https://diffusebot.github.io/)|
 |[LLM-POET: Evolving Complex Environments using Large Language Models](https://arxiv.org/pdf/2406.04663)|**GECCO 2024 Companion**|Modular soft robot|N/A|
@@ -408,3 +408,4 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
