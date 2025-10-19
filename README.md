@@ -58,7 +58,7 @@ Here is a quick menu .^_^. : </p>
 	- [Rule-Based Generation](#rule-based-generation)
 	- [Latent-Based Generation](#latent-based-generation)
 	- [LLM/VLM-Based Generation](#llmvlm-based-generation)
-- [:four: Open-Ended Co-Design Methods](#four-open-ended-co-design-methods)
+- [:four: Open-Ended Co-Design](#four-open-ended-co-design)
 	- [Brain-Body-Env Co-Evolution](#brain-body-env-co-evolution)
 	- [Developmental Co-Evolution](#developmental-co-evolution)
 	- [Other Methods](#other-methods-1)
@@ -143,6 +143,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Efficient co-adaptation of humanoid robot design and locomotion control using surrogate-guided optimization](https://www.sciencedirect.com/science/article/pii/S2667379725000464)|**Biomimetic Intelligence and Robotics**|Humanoid Robot|-|
 |[Task-driven co-design of mobile manipulators](https://arxiv.org/pdf/2412.16635)|**RAL 2025**|Mobile Manipulators|[Page](https://moma-codesign.cs.uni-freiburg.de/)|
 |[Cross-Task Collaborative Optimization Based on Knowledge Transfer for Soft Robot Design](https://ieeexplore.ieee.org/abstract/document/11015931)|**TEVC 2025**|Modular Soft Robot|-|
+|[Accelerated co-design of robots through morphological pretraining](https://arxiv.org/pdf/2502.10862)|**Arxiv 2025**|Modular Robot|[Page](https://sites.google.com/view/co-design-mpt)|
 
 ## Other Methods
 |Paper| Published in |Embodied Agent|Code&Page|                               
@@ -221,7 +222,6 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Co-Designing Manipulation Systems Using Task-Relevant Constraints](https://ieeexplore.ieee.org/abstract/document/10611686)|**ICRA 2024**|Robot Manipulator|-|
 |[Computational co-design of structure and feedback controller for locomoting soft robots](https://arxiv.org/pdf/2407.09270)|**Structural and Multidisciplinary Optimization 2025**|Soft Robot|-|
 |[Making use of design-aware policy optimization in legged-robotics co-design](https://openreview.net/pdf?id=utaVaqRVO4)|**CoRLw 2024**|Legged Robot|-|
-|[Accelerated co-design of robots through morphological pretraining](https://arxiv.org/pdf/2502.10862)|**Arxiv 2025**|Modular Robot|[Page](https://sites.google.com/view/co-design-mpt)|
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
 
 ## Diversity-Based Methods
@@ -279,7 +279,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**ICLRw 2025**|Rigid Robot|-|
 |[VLMGINEER: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/abs/2507.12644)|**Arxiv 2025**|Rigid Robot|[Page](https://vlmgineer.github.io/release)|
 |[A Design Co-Pilot for Task-Tailored Manipulators](https://arxiv.org/pdf/2509.13077)|**Arxiv 2025**|Manipulators|[Page](https://cobra.cps.cit.tum.de/tasks?version=2022&metadata__tags=Robot_designer)|
-# :four: Open-Ended Co-Design Methods
+# :four: Open-Ended Co-Design
 <div align=center><img src="images/open.jpg" width="50%"></div>
 
 ## Brain-Body-Env Co-Evolution 
@@ -399,6 +399,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
