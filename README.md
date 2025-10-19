@@ -300,7 +300,6 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 ## Developmental Co-Evolution
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
-
 |[Evolving Complete Agents using Artificial Ontogeny](https://www.lri.fr/~waller/cours/fr/articles/2008/schoenauer_robot1.pdf)|**Morph 2003**|Rigid Robot|-|
 |[An Improved System for Artificial Creatures Evolution](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2d64f5e208b2e841dfc30ea6daffb4e259bae75f)|**ALife 2006**|Rigid Robot|-|
 |[Morphological Development at the Evolutionary Timescale: Robotic Developmental Evolution](https://direct.mit.edu/artl/article/28/1/3/109958/Morphological-Development-at-the-Evolutionary)|**A-Life 2022**|Soft Robot|-|
@@ -399,6 +398,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
