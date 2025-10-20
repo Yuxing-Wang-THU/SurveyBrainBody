@@ -95,7 +95,8 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
 |[CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids](https://arxiv.org/pdf/2509.14935)|**Arxiv 2025**|Humanoid Robot||
 |[Performance-guided Task-specific Optimization for Multirotor Design](https://arxiv.org/pdf/2510.04724)|**Arxiv 2025**|Multirotor Robot|[Page](https://youtu.be/V6w_DTKWvtc?si=kV4dyNnZw70lNWEf&t=88)|
-|[Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot](https://arxiv.org/html/2510.03081v1)|**Arxiv 2025**|Humanoid Robot||
+|[Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot](https://arxiv.org/html/2510.03081v1)|**Arxiv 2025**|Humanoid Robot|-|
+|[Exploring Grammar-Guided Design and Evolution of Polyominoes with Modular Soft Robots](https://assets-eu.researchsquare.com/files/rs-6982435/v1_covered_f8c9b73d-68d3-4ced-9d8a-84c1ed7da10d.pdf?c=1759999150)|**GPEM 2025**|Modular Soft Robot|-|
 
 # :one: Bi-Level Co-Design
 <div align=center><img src="images/bilevel.jpg" width="50%"></div>
@@ -209,6 +210,8 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Learning-in-the-loop optimization: End-to-end control and co-design of soft robots through learned deep latent representations](https://proceedings.neurips.cc/paper/2019/file/438124b4c06f3a5caffab2c07863b617-Paper.pdf)|**NIPS 2019**|Soft Robot|-|
+|[One robot for many tasks: Versatile co-design through stochastic programming](https://ieeexplore.ieee.org/abstract/document/8972465)|**RAL 2020**|Legged Robot|-|
 |[An End-to-End Differentiable Framework for Contact-Aware Robot Design](https://people.csail.mit.edu/jiex/papers/DiffHand/paper.pdf)|**RSS 2021**|Rigid Robot|[Code](https://github.com/eanswer/DiffHand)&[Page](https://diffhand.csail.mit.edu/)|
 |[Diffaqua: A differentiable computational design pipeline for soft underwater swimmers with shape interpolation](https://dl.acm.org/doi/pdf/10.1145/3450626.3459832)|**ACM TOG 2021**|Soft Gripper|[Code](https://github.com/mit-gfx/DiffAqua)&[Page](https://proceedings.neurips.cc/paper/2019/hash/438124b4c06f3a5caffab2c07863b617-Abstract.html)|
 |[Optimization of humanoid robot designs for human-robot ergonomic payload lifting](https://arxiv.org/pdf/2211.13503)|**Humanoids 2022**|Humanoids Robot|-|
@@ -223,18 +226,32 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Computational co-design of structure and feedback controller for locomoting soft robots](https://arxiv.org/pdf/2407.09270)|**Structural and Multidisciplinary Optimization 2025**|Soft Robot|-|
 |[Making use of design-aware policy optimization in legged-robotics co-design](https://openreview.net/pdf?id=utaVaqRVO4)|**CoRLw 2024**|Legged Robot|-|
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
+|[A Design Co-Pilot for Task-Tailored Manipulators](https://arxiv.org/pdf/2509.13077)|**Arxiv 2025**|Manipulators|[Page](https://cobra.cps.cit.tum.de/tasks?version=2022&metadata__tags=Robot_designer)|
 
 ## Diversity-Based Methods
 <b>TLDR: Methods that focus on generating morphological diversity (how to effectively keep the morphological diversity?).</b>
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
-|[Solving deceptive tasks in robot body-brain co-evolution by searching for behavioral novelty](https://ieeexplore.ieee.org/abstract/document/5687250)|**ICISDA 2010**|Rigid Robot|-|
+|[Solving deceptive tasks in robot body-brain co-evolution by searching for behavioral novelty](https://ieeexplore.ieee.org/abstract/document/5687250)|**ICISDA 2010**|Virtual Creature|-|
+|[Evolving a diversity of virtual creatures through novelty search and local competition](https://dl.acm.org/doi/abs/10.1145/2001576.2001606)|**GECCO 2011**|Virtual Creature|-|
+|[Quality and Diversity in Evolutionary Modular Robotics](https://ieeexplore.ieee.org/document/9308511)|**SSCI 2020**|Modular Robot|-|
+|[Seeking Quality Diversity in Evolutionary Co-design of Morphology and Control of Soft Tensegrity Modular Robots](https://dl.acm.org/doi/10.1145/3449639.3459311)|**GECCO 2021**|Modular Robot|[Page](https://www.youtube.com/playlist?list=PLtSGcQw3Wpzzoa3nev1RUmMGRSFb18jFf)|
+|[Effects of compliant and structural parts in evolved modular robots](https://direct.mit.edu/isal/proceedings/isal2023/35/76/116931)|**A-Life 2023**|Modular Robot|[Code](https://github.com/EmmaStensby/modular-robots-sea)|
 [A ’MAP’ to find high-performing soft robot designs: Traversing complex design spaces using MAP-elites and Topology Optimization](https://arxiv.org/pdf/2407.07591)|**IROS 2024**|Rigid Manipulator|N/A|
 |[No-brainer: Morphological Computation driven Adaptive Behavior in Soft Robots](https://arxiv.org/pdf/2407.16613)|**SAB 2024**|Modular Soft Robot|[Code](https://github.com/mertan-a/no-brainer)|
-|[Enhancing Adaptability in Embodied Agents: A Multi-Quality-Diversity Approach](https://ieeexplore.ieee.org/abstract/document/11119655)|**IEEE TEVC**|Modular Soft Robot|[Code](https://github.com/giorgia-nadizar/BBB-QD)|
-|[Quality-diversity in problems with composite solutions: a case study on body–brain robot optimization](https://link.springer.com/article/10.1007/s10710-025-09520-x)|**Genetic Programming and Evolvable Machines**|Modular Soft Robot|-|
 |[Controller Distillation Reduces Fragile Brain-Body Co-Adaptation and Enables Migrations in MAP-Elites](https://arxiv.org/pdf/2504.06523)|**GECCO 2025**|Modular Soft Robot|[Code](https://github.com/mertan-a/pollination)|
+|[Body and Brain Quality-Diversity in Robot Swarms](https://dl.acm.org/doi/10.1145/3664656)|**TELO 2025**|Modular Robot|[Code](https://github.com/Body-Brain-QD-in-Robotic-Swarms/TELO-2023)|
+|[Enhancing Adaptability in Embodied Agents: A Multi-Quality-Diversity Approach](https://ieeexplore.ieee.org/abstract/document/11119655)|**TEC 2025**|Modular Soft Robot|[Code](https://github.com/giorgia-nadizar/BBB-QD)|
+|[Quality-diversity in problems with composite solutions: a case study on body–brain robot optimization](https://link.springer.com/article/10.1007/s10710-025-09520-x)|**GPEM 2025**|Modular Soft Robot|-|
+
+## Other Methods 
+<b>TLDR: Actuating Shape-Changed robots.</b>
+
+|Paper| Published in |Embodied Agent|Code&Page|                               
+|:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Shape change and control of pressure-based soft agents](https://direct.mit.edu/isal/proceedings/isal2022/34/37/112294)|**ALIFE 2022**|Pressure-Based Soft Robot|[Code](https://github.com/pigozzif/PressureSoftAgents)&[Page](https://pressuresoftagents.github.io/)|
+|[DittoGym: Learning to Control Soft Shape-Shifting Robots](https://arxiv.org/pdf/2401.13231)|**ICLR 2024**|Soft Shape-Shifting Robots|[Code](https://github.com/suninghuang19/dittogym)&[Page](https://dittogym.github.io/)|
 
 # :three: Generative Co-Design
 <div align=center><img src="images/gen.jpg" width="50%"></div>
@@ -244,17 +261,19 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Evolution of generative design systems for modular physical robots](https://ieeexplore.ieee.org/abstract/document/933266)|**ICRA 2001**|Modular Robot|-|
 |[Generative representations for the automated design of modular physical robots](https://ntrs.nasa.gov/api/citations/20030107313/downloads/20030107313.pdf)|**TRA 2004**|Rigid Robot|-|
+|[Creature Academy: A System for Virtual Creature Evolution](https://ieeexplore.ieee.org/abstract/document/4631243)|**CEC 2008**|Rigid Robot|-|
 [Robogrammar: graph grammar for terrain-optimized robot design](https://dl.acm.org/doi/10.1145/3414685.3417831)|**TOG 2020**|Rigid Robot|[Code](https://github.com/allanzhao/RoboGrammar)&[Page](https://people.csail.mit.edu/jiex/papers/robogrammar/index.html)|
 [Automatic Co-Design of Aerial Robots Using a Graph Grammar](https://cfg.mit.edu/assets/images/ieee-xplore-full-text-pdf-.pdf)|**IROS 2022**|UAV|-|
 |[Synergizing Morphological Computation and Generative Design: Automatic Synthesis of Tendon-Driven Grippers](https://arxiv.org/pdf/2410.07865) |**IROS 2024**|Tendon-Driven Grippers|[Code](https://github.com/aimclub/rostok)&[Page](https://rostok.readthedocs.io/en/latest/)|
+|[Exploring Grammar-Guided Design and Evolution of Polyominoes with Modular Soft Robots](https://assets-eu.researchsquare.com/files/rs-6982435/v1_covered_f8c9b73d-68d3-4ced-9d8a-84c1ed7da10d.pdf?c=1759999150)|**GPEM 2025**|Modular Soft Robot|-|
 
 ## Latent-Based Generation
 <b>TLDR: Methods that focus on generating agent morphologies using latent-based systems (GAN, VAE, etc.).</b>
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
-|[Learning-in-the-loop optimization: End-to-end control and co-design of soft robots through learned deep latent representations](https://proceedings.neurips.cc/paper/2019/file/438124b4c06f3a5caffab2c07863b617-Paper.pdf)|**NIPS 2019**|Soft Robot|-|
 [Emergent hand morphology and control from optimizing robust grasps of diverse objects](https://arxiv.org/pdf/2012.12209)|**ICRA 2021**|Robot Hand|[Code](https://xinleipan.github.io/emergent_morphology/)|
 [GLSO: Grammar-guided Latent Space Optimization for Sample-efficient Robot Design Automation](https://proceedings.mlr.press/v205/hu23c/hu23c.pdf)|**CoRL 2022**|Rigid Robot|[Code](https://github.com/JiahengHu/GLSO)|
 |[Modular Robot Design Optimization with Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/9812091)|**ICRA 2022**|Modular Rigid Robot|-|
@@ -265,7 +284,6 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[TE-RoboNet: Transfer Enhanced RoboNet for Sample-Efficient Generation of Robot Co-Designs](https://openreview.net/forum?id=sbjbD8ftCH)|**EWRL 2025**|Rigid Robot||
 |[COGENT: Co-design of Robots with GFlowNets](https://openreview.net/forum?id=IfLKMWrroL)|**EWRL 2025**|Modular Robot|-|
 
-
 ## LLM/VLM-Based Generation
 <b>TLDR: Methods that focus on generating agent morphologies using large models (Diffusion Model, LLM, etc.).</b>
 
@@ -273,12 +291,13 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
 |[Evolution Through Large Models](https://arxiv.org/abs/2206.08896)|**Arxiv 2023**|Soft Robot|[Code](https://github.com/CarperAI/OpenELM)|
 |[How can LLMs transform the robotic design process?](https://www.nature.com/articles/s42256-023-00669-7)|**Nature Machine Intelligence 2023**|Robot Gripper|-|
+|[How Can Large Language Models Help Humans in Design and Manufacturing?](https://arxiv.org/abs/2307.14377)|**Arxiv 2023**|-|-|
 |[LASeR: LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models](https://openreview.net/forum?id=7mlvOHL6qJ)|**ICLR 2025**|Modular Soft Robot|[Code](https://github.com/WoodySJR/LASeR)|
 |[RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/pdf/2506.00276?)|**Arxiv 2025**|Rigid Robot|-|
 |[Large Language Models as Natural Selector for Embodied Soft Robot Design](https://arxiv.org/pdf/2503.02249)|**Arxiv 2025**|Modular Soft Robot|[Code](https://github.com/AisenGinn/evogym_data_generation)|
 |[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**ICLRw 2025**|Rigid Robot|-|
 |[VLMGINEER: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/abs/2507.12644)|**Arxiv 2025**|Rigid Robot|[Page](https://vlmgineer.github.io/release)|
-|[A Design Co-Pilot for Task-Tailored Manipulators](https://arxiv.org/pdf/2509.13077)|**Arxiv 2025**|Manipulators|[Page](https://cobra.cps.cit.tum.de/tasks?version=2022&metadata__tags=Robot_designer)|
+
 # :four: Open-Ended Co-Design
 <div align=center><img src="images/open.jpg" width="50%"></div>
 
@@ -290,29 +309,24 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Co-optimising robot morphology and controller in a simulated open-ended environment](https://arxiv.org/pdf/2104.03062)|**EvoStar 2021**|Legged Robot|[Code](https://github.com/EmmaStensby/poet-morphology)|
 |[Co-Designing Manipulation Systems Using Task-Relevant Constraints](https://www.static.tu.berlin/fileadmin/www/10002220/Publications/Vaish-22-ICRA.pdf)|**ICRA 2022**|Rigid Manipulator|N/A|
 |[Curriculum Reinforcement Learning via Morphology-Environment Co-Evolution](https://arxiv.org/pdf/2309.12529)|**Arxiv 2023**|Rigid Robot|N/A|
-|[Task2Morph: Differentiable Task-inspired Framework for Contact-Aware Robot Design](https://ieeexplore.ieee.org/document/10341360)|**IROS 2023**|Rigid Robot|[Code](https://github.com/HPCL-EI/Task2Morph)|
 |[Brain–body-task co-adaptation can improve autonomous learning and speed of bipedal walking](https://iopscience.iop.org/article/10.1088/1748-3190/ad8419/pdf)|**Bioinspir. Biomim. 2024**|Legged Robot|N/A|
-|[LLM-POET: Evolving Complex Environments using Large Language Models](https://arxiv.org/pdf/2406.04663)|**GECCO 2024 Companion**|2D Modular Soft Robot</br>(Voxel-Based Soft Robot)|N/A|
+|[LLM-POET: Evolving Complex Environments using Large Language Models](https://arxiv.org/pdf/2406.04663)|**GECCO 2024 Companion**|2D Modular Soft Robot|N/A|
 |[Evolving Complex Environments in Evolution Gym using Large Language Models](https://ieeexplore.ieee.org/abstract/document/10626609)|**ICASSPW 2024**|2D Modular Soft Robot</br>(Voxel-Based Soft Robot)|N/A|
 |[Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains](https://arxiv.org/pdf/2405.14566)|**Arxiv 2024**|Rigid Manipulator|[Page](https://roamlab.github.io/tentamorph/)|
-|[Eco-Evo-Devo in the Adaptive Evolution of Artificial Creatures Within a 3D Physical Environment](https://www.mdpi.com/2079-9292/14/2/354)|**Electronics 2025**|Vitural Creature|[Page](https://figshare.com/articles/media/Supplementary_Videos_Morphological_changes_and_behavior_for_best_individual_in_each_case_/27100309)|
+
 
 ## Developmental Co-Evolution
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
 |[Evolving Complete Agents using Artificial Ontogeny](https://www.lri.fr/~waller/cours/fr/articles/2008/schoenauer_robot1.pdf)|**Morph 2003**|Rigid Robot|-|
-|[An Improved System for Artificial Creatures Evolution](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2d64f5e208b2e841dfc30ea6daffb4e259bae75f)|**ALife 2006**|Rigid Robot|-|
+|[An Improved System for Artificial Creatures Evolution](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2d64f5e208b2e841dfc30ea6daffb4e259bae75f)|**ALife 2006**|Virtual Creature|-|
+|[Open-ended behavioral complexity for evolved virtual creatures](https://dl.acm.org/doi/abs/10.1145/2463372.2463411)|**GECCO 2013**|Virtual Creature|-|
+|[Artificial Metamorphosis: Evolutionary Design of Transforming, Soft-Bodied Robots](https://ieeexplore.ieee.org/document/7547406)|**A-Life 2022**|Virtual Creature|-|
 |[Morphological Development at the Evolutionary Timescale: Robotic Developmental Evolution](https://direct.mit.edu/artl/article/28/1/3/109958/Morphological-Development-at-the-Evolutionary)|**A-Life 2022**|Soft Robot|-|
 [A Unified Substrate for Body-Brain Co-evolution](https://arxiv.org/pdf/2203.12066)|**ICLRw 2022**|Vitual Creature|[Code](https://github.com/sidneyp/neural-cellular-robot-substrate)|
 |[Evolution of Developmental Plasticity of Soft Virtual Creatures in Changing Environments](https://ieeexplore.ieee.org/document/10611998)|**CEC 2024**|Modular Soft Robot|-|
+|[Eco-Evo-Devo in the Adaptive Evolution of Artificial Creatures Within a 3D Physical Environment](https://www.mdpi.com/2079-9292/14/2/354)|**Electronics 2025**|Vitural Creature|[Page](https://figshare.com/articles/media/Supplementary_Videos_Morphological_changes_and_behavior_for_best_individual_in_each_case_/27100309)|
 
-## Other Methods 
-<b>TLDR: Actuating Shape-Changed robots.</b>
-
-|Paper| Published in |Embodied Agent|Code&Page|                               
-|:---------|:---------------------------------------------------|:-------------:|:-------------|
-|[Shape change and control of pressure-based soft agents](https://direct.mit.edu/isal/proceedings/isal2022/34/37/112294)|**ALIFE 2022**|Pressure-Based Soft Robot|[Code](https://github.com/pigozzif/PressureSoftAgents)&[Page](https://pressuresoftagents.github.io/)|
-|[DittoGym: Learning to Control Soft Shape-Shifting Robots](https://arxiv.org/pdf/2401.13231)|**ICLR 2024**|Soft Shape-Shifting Robots|[Code](https://github.com/suninghuang19/dittogym)&[Page](https://dittogym.github.io/)|
 
 # :five: Theoretical and Experimental Analysis of Embodied Co-Design
 <b>TLDR: Papers that investigates the synergy of Brain, Body, and Environment.</b>
@@ -320,6 +334,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |Paper| Published in |Embodied Agent|Code&Page| 
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
 |[Fitness functions in evolutionary robotics: A survey and analysis](https://www.sciencedirect.com/science/article/pii/S0921889008001450)|**RAS 2009**|-|-|
+|[ALife approach for body-behavior predator–prey coevolution: body first or behavior first?](https://link.springer.com/article/10.1007/s10015-013-0096-y)|**ALR 2013**|-|-|
 |[Beyond black-box optimization: a review of selective pressures for evolutionary robotics](https://link.springer.com/article/10.1007/s12065-014-0110-x)|**EI 2014**|-|-|
 |[Simple or complex bodies? Trade-offs in exploiting body morphology for control](https://link.springer.com/chapter/10.1007/978-3-319-43784-2_17)|**Book 2017**|-|-|
 [The trade-off between morphology and control in the co-optimized design of robots](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0186107&type=printable)|**PLOS ONE 2017**|Rigid Robot|-|
@@ -398,6 +413,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
