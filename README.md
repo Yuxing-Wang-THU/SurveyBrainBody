@@ -156,6 +156,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
 [Lamarckian evolution of simulated modular robots](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2019.00009/full)|**Frontiers in Robotics and AI 2019**|Modular Robot|[Code](https://github.com/ci-group/revolve/)|
 [Task-Agnostic Morphology Evolution](https://openreview.net/pdf?id=CGQ6ENUMX6)|**ICLR 2021**|Rigid Robot|[Code](https://github.com/jhejna/morphology-opt)&[Page](https://sites.google.com/view/task-agnostic-evolution)| -->
+[Computational design of energy-efficient legged robots: Optimizing for size and actuators](https://hal.science/hal-02993624/document)|**ICRA 2021**|Rigid Robot|-|
 [Simulation aided co-design for robust robot optimization](https://iris.unitn.it/bitstream/11572/376871/1/Robust_co_design_paper.pdf)|**RAL 2022**|Rigid Robot|-|
 [Codesign of humanoid robots for ergonomic collaboration with multiple humans via genetic algorithms and nonlinear optimization](https://ieeexplore.ieee.org/document/10375237)|**Humanoids 2023**|Humanoid Robot|[Code](https://github.com/ami-iit/paper_sartore_2023_humanoids_codesign-ga-nl)|
 [Evolution and learning in differentiable robots](https://www.roboticsproceedings.org/rss20/p100.pdf)|**RSS 2024**|Modular Soft Robot|[Code](https://github.com/lstrgar/ELDiR)&[Page](https://sites.google.com/view/eldir)|
@@ -287,6 +288,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[MorphVAE: Advancing Morphological Design of Voxel-Based Soft Robots with Variational Autoencoders](https://ojs.aaai.org/index.php/AAAI/article/view/28904)|**AAAI 2024**|Modular Soft Robot|[Code](https://github.com/WoodySJR/MorphVAE)|
 |[DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models](https://arxiv.org/pdf/2302.00905)|**NIPS 2023**|Soft Robot|[Code](https://github.com/EvolutionGym/evogym)&[Page](https://diffusebot.github.io/)|
 |[RoboNet: A Sample-Efficient Robot co-design Generator](https://openreview.net/pdf?id=VdT2R6XSlV)|**CoRLw 2024**|Rigid Robots|-|
+|[Morphology Evolution for Embodied Robot Design  with a Classifier-Guided Diffusion Model](https://ieeexplore.ieee.org/abstract/document/11003187)|**TEC 2025**|Modular Soft Robot|[Code](https://github.com/HandingWangXDGroup/CDMEO)|
 |[Generating Freeform Endoskeletal Robots](https://arxiv.org/abs/2412.01036)|**ICLR 2025**|Endoskeletal Robots|[Code](https://github.com/iffiX/endoskeletal)&[Page](https://endoskeletal.github.io/)|
 |[TE-RoboNet: Transfer Enhanced RoboNet for Sample-Efficient Generation of Robot Co-Designs](https://openreview.net/forum?id=sbjbD8ftCH)|**EWRL 2025**|Rigid Robot||
 |[COGENT: Co-design of Robots with GFlowNets](https://openreview.net/forum?id=IfLKMWrroL)|**EWRL 2025**|Modular Robot|-|
