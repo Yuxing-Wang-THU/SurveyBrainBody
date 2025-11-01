@@ -92,6 +92,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**IROSw 2025**|Rigid Robot|-|
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
 |[CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids](https://arxiv.org/pdf/2509.14935)|**Arxiv 2025**|Humanoid Robot||
 |[Performance-guided Task-specific Optimization for Multirotor Design](https://arxiv.org/pdf/2510.04724)|**Arxiv 2025**|Multirotor Robot|[Page](https://youtu.be/V6w_DTKWvtc?si=kV4dyNnZw70lNWEf&t=88)|
@@ -309,6 +310,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[CUDA-Accelerated Soft Robot Neural Evolution with Large Language Model Supervision](https://arxiv.org/pdf/2405.00698v1)|**ICRAw 2024**|Soft Robot|-|
 |[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](https://arxiv.org/pdf/2502.17034)|**Arxiv 2025**|Robot Tools|-|
 |[RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/pdf/2506.14763)|**Arxiv 2025**|Robot Tools|[Page](https://umass-embodied-agi.github.io/RobotSmith/)|
+|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**IROSw 2025**|Rigid Robot|-|
 
 # :four: Open-Ended Co-Design
 <div align=center><img src="images/open.jpg" width="50%"></div>
