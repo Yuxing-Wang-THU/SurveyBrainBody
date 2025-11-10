@@ -111,7 +111,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on the bi-level nature of control learning together with morphology evolution (Baldwin Effect)</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -143,7 +143,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on using surrogate models to reduce the computational burden of the co-design process (how to efficiently evaluate a morphology without learning a specific controller?)</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -170,7 +170,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 ## Other Methods
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -192,7 +192,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on evolving morphology and control simultaneously (how does natural evolution inform the co-design process?).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -220,7 +220,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on optimizing morphology and control simultaneously using Reinforcement Learning (physics-model free).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -250,7 +250,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on optimizing morphology and control simultaneously using Differentiable Simulation or analytical physics model).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -284,7 +284,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on generating morphological diversity (how to effectively keep the morphological diversity?).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -306,7 +306,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Actuating Shape-Changed robots.</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -322,7 +322,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on generating agent morphologies using rule-based systems (grammar, L-systems, etc.).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -340,7 +340,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on generating agent morphologies using latent-based systems (GAN, VAE, etc.).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -361,7 +361,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on generating agent morphologies using large models (Diffusion Model, LLM, etc.).</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -387,7 +387,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Methods that focus on brain-body-environment co-optimization.</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -404,7 +404,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 ## Developmental Co-Evolution
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -423,7 +423,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 <b>TLDR: Papers that investigates the synergy of Brain, Body, and Environment.</b>
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|Code&Page| 
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
@@ -461,7 +461,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :computer: Simulated Benchmarks for Embodied Co-Design
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Platform|Related Papers|Agent|Differentiable Sim|                              
 |:---------|:--------------------------------------------|:-------------:|:--:|
@@ -482,7 +482,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :door: Embodied Co-Deisgn in Real World
 
 <details>
-<summary>References</summary>
+<summary>References (Click to expand ⬇️)</summary>
 	
 |Paper| Published in |Embodied Agent|                               
 |:---------|:---------------------------------------------------|:-------------:|
@@ -520,6 +520,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
