@@ -459,7 +459,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 </details>
 
 # :computer: Simulated Benchmarks for Embodied Co-Design
-
+<div align=center><img src="images/pf.jpg" width="90%"></div>
 <details>
 <summary>References (Click to expand ⬇️)</summary>
 	
@@ -520,6 +520,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
