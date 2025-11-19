@@ -92,6 +92,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Learning to Design Soft Hands using Reward Models](https://arxiv.org/pdf/2510.17086)|**Arxiv 2025**|Robot Manipulator|-|
 |[Morphological design methodologies of soft robots](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100012)|**The Innovation Informatics 2025**|Soft Robot|-|
 |[Terrain-aware morphology searching algorithm for self-reconfigurable modular robot in dynamic environment](https://www.sciencedirect.com/science/article/pii/S1568494625014954)|**Applied Soft Computing 2025**|Modular Robot|[code](https://github.com/TypeFloat/TAMS)|
 |[Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery](https://arxiv.org/pdf/2510.22336)|**Arxiv 2025**|Humanoid Robot|-|
@@ -166,7 +167,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Task-driven co-design of mobile manipulators](https://arxiv.org/pdf/2412.16635)|**RAL 2025**|Mobile Manipulators|[Page](https://moma-codesign.cs.uni-freiburg.de/)|
 |[Cross-Task Collaborative Optimization Based on Knowledge Transfer for Soft Robot Design](https://ieeexplore.ieee.org/abstract/document/11015931)|**TEVC 2025**|Modular Soft Robot|-|
 |[Accelerated co-design of robots through morphological pretraining](https://arxiv.org/pdf/2502.10862)|**Arxiv 2025**|Modular Robot|[Page](https://sites.google.com/view/co-design-mpt)|
-
+|[Learning to Design Soft Hands using Reward Models](https://arxiv.org/pdf/2510.17086)|**Arxiv 2025**|Robot Manipulator|-|
 </details>
 	
 ## Other Methods
@@ -522,6 +523,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
     
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
