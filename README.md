@@ -21,6 +21,8 @@ We hope that this survey can serve as a reference-worthy and stimulating contrib
 
 **2025/01/01**: Happy New Year! I am updating the survey on this topic and will **fully** update the site when the survey is updated to Arxiv.
 
+**2025/12/01**: **[News]!** Our survey paper is publicly available on Arxiv ([Paper Link](https://arxiv.org/abs/2512.04770)).
+
 # 🔥 Comments
 * [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)Feel free to pull requests or contact us if you find any related papers that are not included here.
 The process to submit a pull request is as follows:
@@ -54,6 +56,7 @@ Here is a quick menu .^_^. : </p>
 	- [RL-Based Methods](#rl-based-methods)
 	- [Physics-Based Methods](#physics-based-methods)
 	- [Diversity-Based Methods](#diversity-based-methods)
+	- [Other Methods](#other-methods-1)
 - [:three: Generative Co-Design](#three-generative-co-design)
 	- [Rule-Based Generation](#rule-based-generation)
 	- [Latent-Based Generation](#latent-based-generation)
@@ -61,7 +64,6 @@ Here is a quick menu .^_^. : </p>
 - [:four: Open-Ended Co-Design](#four-open-ended-co-design)
 	- [Brain-Body-Env Co-Evolution](#brain-body-env-co-evolution)
 	- [Developmental Co-Evolution](#developmental-co-evolution)
-	- [Other Methods](#other-methods-1)
 - [:five: Theoretical and Experimental Analysis of Embodied Co-Design](#five-theoretical-and-experimental-analysis-of-embodied-co-design)
 - [:computer: Simulated Benchmarks for Embodied Co-Design](#computer-simulated-benchmarks-for-embodied-co-design)
 - [:door: Embodied Co-Deisgn in Real World](#door-embodied-co-deisgn-in-real-world)
@@ -520,21 +522,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 - [Bridging evolutionary algorithms and reinforcement learning: A comprehensive survey on hybrid algorithms](https://ieeexplore.ieee.org/abstract/document/10637292)</br>Pengyi Li and Jianye Hao, et al., 2022, IEEE Transactions on Evolutionary Computation  
 - [Design Optimization of Soft Robots: A Review of the State of the Art](https://ieeexplore.ieee.org/document/9237112)</br>FeiFei Chen and Michael Yu Wang, 2022, IEEE Robotics & Automation Magazine
 - [Evolutionary robotics and open-ended design automation](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=adac8ad353506beaad68e9e5b2f61172a4a0184a)</br>Hod Lipson, 2005, Biomimetics 
-    
+
+
 # :envelope: Contact Information
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
