@@ -8,6 +8,8 @@
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuxing-Wang-THU.Awesome-Brain-Body-Co-Design-of-Embodied-Agent&left_color=green&right_color=red)
 ![GitHub stars](https://img.shields.io/github/stars/Yuxing-Wang-THU/Awesome-Brain-Body-Co-Design-of-Embodied-Agents.svg?style=flat&label=Star)
+[![arXiv](https://img.shields.io/badge/arXiv-arxiv.org/abs/2512.04770-<COLOR>.svg)](https://arxiv.org/abs/2512.04770)
+
 # 🚀 Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
 <p style="text-align:justify;"> The co-evolution of brain and body empowers animals to exhibit complex behaviors in their environments. Motivated by this natural synergy, Embodied Co-Design (ECD) has emerged as a transformative paradigm for the development of intelligent agents, including both physical robots and virtual creatures. In contrast to conventional approaches that primarily focus on control optimization, ECD jointly optimizes an agent's morphology and control, thereby enhancing environmental interactions and improving task performance compared to control design alone.</p>
 
@@ -15,7 +17,22 @@
 
 <p style="text-align:justify;"><b>🔑 Contributions to Embodied AI:</b> This work provides a comprehensive survey of ECD within the broader landscape of embodied intelligence. We begin with definitions of ECD and contextualize it within related fields such as evolutionary robotics, artificial life, and computational robot design. Next, we introduce a novel hierarchical taxonomy to classify design spaces and representation methods for control, morphology, and tasks, which allows us to analyze over one hundred recent studies in ECD. We review notable benchmarks and applications in both simulated and real-world scenarios. Finally, we identify significant challenges and offer insights into promising future research directions.
 
-We hope that this survey can serve as a reference-worthy and stimulating contribution to the advancement of embodied intelligence while also providing valuable perspectives for related fields.</p></b>
+We hope that this survey can serve as a reference-worthy and stimulating contribution to the advancement of embodied intelligence while also providing valuable perspectives for related fields. Thanks to the following authors for creating introductory videos and articles for our survey: </p></b>
+
+ [🎥Youtube Video](https://www.youtube.com/watch?v=NIUuSdyK-NY)
+
+ [🔖Article: Embodied Co-Design Is Revolutionizing How We Create Intelligent Robots](https://dailyneuron.com/embodied-co-design-robot-evolution/)
+
+# 🍀 Citation
+If you find this survey helpful, please cite our paper:
+```
+@article{wang2025embodied,
+  title={Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges},
+  author={Wang, Yuxing and Chen, Zhiyu and Zhang, Tiantian and Yin, Qiyue and Chang, Yongzhe and Li, Zhiheng and Wang, Liang and Wang, Xueqian},
+  journal={arXiv preprint arXiv:2512.04770},
+  year={2025}
+}
+```
 
 # 📋 Update List
 
@@ -531,3 +548,4 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
