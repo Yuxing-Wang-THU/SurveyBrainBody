@@ -111,7 +111,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
-|[Convergent Functions, Divergent Forms](https://arxiv.org/abs/2505.21665)|**NeurIPS 2025**|Rigid Robot|[Code](https://github.com/yeonsumia/loki), [Page](https://loki-codesign.github.io/)|
+|[Convergent Functions, Divergent Forms](https://arxiv.org/abs/2505.21665)|**NeurIPS 2025**|Rigid Robot|[Code](https://github.com/yeonsumia/loki)&[Page](https://loki-codesign.github.io/)|
 |[Cross-embodied Co-design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**Arxiv 2025**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
 |[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
 |[Learning to Design Soft Hands using Reward Models](https://arxiv.org/pdf/2510.17086)|**Arxiv 2025**|Robot Manipulator|-|
@@ -268,6 +268,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[BodyGen: Advancing Towards Efficient Embodiment Co-Design](https://arxiv.org/pdf/2503.00533)|**ICLR 2025**|Rigid Robot|[Page](https://genesisorigin.github.io/)&[Code](https://github.com/GenesisOrigin/BodyGen)|
 |[Efficient End-effector Co-Design by Demonstration for Deformable Fragile Object Manipulation](https://openreview.net/forum?id=zJKf0kpQTD)|**RSSw 2025**|End-effector|[Page](https://sites.google.com/view/efficient-end-effector-and-con/home)|
 |[Co-Design and Control of a Biomimetic Snake Robot and its Contact Surfaces with Reinforcement Learning](https://openreview.net/forum?id=fUdHUU2ZCV)|**EWRL 2025**|Snake Robot||
+|[Convergent Functions, Divergent Forms](https://arxiv.org/abs/2505.21665)|**NeurIPS 2025**|Rigid Robot|[Code](https://github.com/yeonsumia/loki)&[Page](https://loki-codesign.github.io/)|
 
 </details>
 
