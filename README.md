@@ -111,6 +111,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Convergent Functions, Divergent Forms](https://arxiv.org/abs/2505.21665)|**NeurIPS 2025**|Rigid Robot|[Code](https://github.com/yeonsumia/loki) / [Page](https://loki-codesign.github.io/)|
 |[Cross-embodied Co-design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**Arxiv 2025**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
 |[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
 |[Learning to Design Soft Hands using Reward Models](https://arxiv.org/pdf/2510.17086)|**Arxiv 2025**|Robot Manipulator|-|
