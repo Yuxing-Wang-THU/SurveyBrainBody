@@ -448,7 +448,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 </details>
 
 # :five: Theoretical and Experimental Analysis of Embodied Co-Design
-<b>TLDR: Papers that investigates the synergy of Brain, Body, and Environment.</b>
+<b>TLDR: Papers that investigates the synergy among Brain, Body, and Environment.</b>
 
 <details>
 <summary>References (Click to expand ⬇️)</summary>
@@ -483,6 +483,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Selection pressure shapes epistatic gene interactions in the evolution of robots](https://osf.io/ecpfw/download)|-|Modular Robot|[code](https://github.com/karinemiras/revolve2/tree/plasticoding_v3)|
 |[Robots that Evolve with Us: Modular Co-Design for Personalization, Adaptability, and Sustainability](https://arxiv.org/pdf/2509.11622)|**Arxiv 2025**|Modular Robot|-|
 |[Evolutionary Brain-Body Co-Optimization Consistently Fails to Select for Morphological Potential](https://arxiv.org/abs/2508.17464)|**A-Life 2025**|Modular Soft Robot|[Code](https://github.com/mertan-a/morphology-fitness-landscape)|
+|[Investigating the Mechanisms of Embodied Intelligence with Evolvable Modular Soft Robots](https://ceur-ws.org/Vol-4121/Ital-IA_2025_paper_43.pdf)|**Preprint 2025**|Modular Soft Robot|-|
 
 </details>
 
@@ -550,4 +551,5 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
