@@ -111,6 +111,9 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Efficient Morphology–Control Co-Design via Stackelberg PPO under Non-Differentiable Leader–Follower Interfaces](https://openreview.net/forum?id=sJ0vOOkclw)|**ICLR 2026 Sub**|Rigid Robot|-|
+|[Evolving Embodied Intelligence: Graph Neural Network–Driven Co-Design of Morphology and Control in Soft Robotics](https://openreview.net/forum?id=AdfEHMueyc)|**ICLR 2026 Sub**|Modular Soft Robot|-|
+|[MorphoGen: Evolving Robot Morphologies with Large Language Models](https://openreview.net/forum?id=DzZrQsdCbL)|**ICLR 2026 Sub**|Rigid Robot|[Code](https://anonymous.4open.science/r/MorphoGen-ACC/)|
 |[Convergent Functions, Divergent Forms](https://arxiv.org/abs/2505.21665)|**NeurIPS 2025**|Rigid Robot|[Code](https://github.com/yeonsumia/loki)&[Page](https://loki-codesign.github.io/)|
 |[Cross-embodied Co-design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**Arxiv 2025**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
 |[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
@@ -551,5 +554,6 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
