@@ -131,7 +131,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](https://arxiv.org/pdf/2502.17034)|**Arxiv 2025**|Robot Tools|-|
 |[RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/pdf/2506.14763)|**Arxiv 2025**|Robot Tools|[Page](https://umass-embodied-agi.github.io/RobotSmith/)|
 |[Designing Tools with Control Confidence](https://arxiv.org/pdf/2510.12630)|**Arxiv 2025**|Robot Tools|[Page](https://github.com/ajitham123/Tool_design_control_confidence)|
-
+|[Learning and Coevolving Robots in Competitive Multi-Agent Environments](https://direct.mit.edu/isal/proceedings/isal2025/37/76/134085)|**ALIFE 2025**|Multi-Agent|[Code](https://github.com/kazukazupi/MARC)&[Page](https://sites.google.com/view/ma-codesign-demonstration/)|
 # :one: Bi-Level Co-Design
 <div align=center><img src="images/bilevel.jpg" width="50%"></div>
 
@@ -554,6 +554,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
