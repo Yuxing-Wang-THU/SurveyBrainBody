@@ -111,6 +111,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
 |[Hitting the ‘Gym’: Reinforcement Learning for Control and Co-design of Exercise-Strengthened Biohybrid Robots in Simulation](https://link.springer.com/chapter/10.1007/978-3-032-07448-5_14)|**Living Machines**|Biohybrid Robot|-|
 |[Efficient Morphology–Control Co-Design via Stackelberg PPO under Non-Differentiable Leader–Follower Interfaces](https://openreview.net/forum?id=sJ0vOOkclw)|**ICLR 2026 Sub**|Rigid Robot|-|
 |[Evolving Embodied Intelligence: Graph Neural Network–Driven Co-Design of Morphology and Control in Soft Robotics](https://openreview.net/forum?id=AdfEHMueyc)|**ICLR 2026 Sub**|Modular Soft Robot|-|
@@ -409,6 +410,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/pdf/2506.14763)|**Arxiv 2025**|Robot Tools|[Page](https://umass-embodied-agi.github.io/RobotSmith/)|
 |[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**IROSw 2025**|Rigid Robot|-|
 |[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
+|[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
 
 </details>
 
@@ -555,6 +557,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
