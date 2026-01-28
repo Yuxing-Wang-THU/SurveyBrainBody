@@ -111,6 +111,8 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Directed Morphological Evolution for Fast Robot Structure Optimization](https://ieeexplore.ieee.org/abstract/document/11354507)|**TEC 2026**|Rigid Robot|-|
+|[Group morphological adaptation via adversarial imitation learning](https://www.sciencedirect.com/science/article/pii/S0952197626001399)|**EAAI 2026**|Rigid Robot|-|
 |[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
 |[Hitting the ‘Gym’: Reinforcement Learning for Control and Co-design of Exercise-Strengthened Biohybrid Robots in Simulation](https://link.springer.com/chapter/10.1007/978-3-032-07448-5_14)|**Living Machines**|Biohybrid Robot|-|
 |[Efficient Morphology–Control Co-Design via Stackelberg PPO under Non-Differentiable Leader–Follower Interfaces](https://openreview.net/forum?id=sJ0vOOkclw)|**ICLR 2026 Sub**|Rigid Robot|-|
@@ -557,6 +559,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
