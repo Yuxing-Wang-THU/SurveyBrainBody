@@ -23,6 +23,8 @@ We hope that this survey can serve as a reference-worthy and stimulating contrib
 
  [🔖Article: Embodied Co-Design Is Revolutionizing How We Create Intelligent Robots](https://dailyneuron.com/embodied-co-design-robot-evolution/)
 
+ [🔖麻省理工科技评论 MIT Technology Review: 我设计我自己！清华最新研究：未来机器人不用人设计，AI直接捏出最优形态](https://www.mittrchina.com/news/detail/15865)
+
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
 ```
@@ -559,6 +561,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :envelope: Contact Information
 
 This repo is developed and maintained by [Yuxing Wang](https://yuxing-wang-thu.github.io/). For any questions, please feel free to email `wyx20@tsinghua.org.cn`.
+
 
 
 
