@@ -113,6 +113,11 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation](https://arxiv.org/abs/2603.26240)|**Arxiv 2026**|Swarm Robot|-|
+|[Creating manufacturable blueprints for coarse-grained virtual robots](https://arxiv.org/abs/2603.13582)|**Arxiv 2026**|Virtual Robot|-|
+|[Efficient and Versatile Quadrupedal Skating: Optimal Co-design via Reinforcement Learning and Bayesian Optimization](https://arxiv.org/abs/2603.18408)|**Arxiv 2026**|Robotic Wheel|-|
+|[Robots that redesign themselves through kinematic self-destruction](https://arxiv.org/abs/2603.12505)|**Arxiv 2026**|Rigid Robot|-|
+|[Robust Co-design Optimisation for Agile Fixed-Wing UAVs](https://arxiv.org/abs/2603.11130)|**Arxiv 2026**|UAVs|-|
 |[Directed Morphological Evolution for Fast Robot Structure Optimization](https://ieeexplore.ieee.org/abstract/document/11354507)|**TEC 2026**|Rigid Robot|-|
 |[Group morphological adaptation via adversarial imitation learning](https://www.sciencedirect.com/science/article/pii/S0952197626001399)|**EAAI 2026**|Rigid Robot|-|
 |[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
