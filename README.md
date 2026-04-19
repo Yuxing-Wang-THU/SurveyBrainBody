@@ -113,6 +113,9 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Identifying Inductive Biases for Robot Co-Design](https://arxiv.org/pdf/2604.11768)|**Arxiv 2026**|Rigid Robot|-|
+|[Social Learning Strategies for Evolved Virtual Soft Robots](https://arxiv.org/pdf/2604.12482)|**GECCO 2026**|Soft Robot|-|
+|[Evolving the Complete Muscle: Efficient Morphology-Control Co-design for Musculoskeletal Locomotion](https://arxiv.org/pdf/2604.12855)|**Arxiv 2026**|Humanoid Robot|-|
 |[EvoGymCM: Harnessing Continuous Material Stiffness for Soft Robot Co-Design](https://arxiv.org/abs/2604.08258)|**Arxiv 2026**|Soft Robot|-|
 |[SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation](https://arxiv.org/abs/2603.26240)|**Arxiv 2026**|Swarm Robot|-|
 |[Creating manufacturable blueprints for coarse-grained virtual robots](https://arxiv.org/abs/2603.13582)|**Arxiv 2026**|Virtual Robot|-|
