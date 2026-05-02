@@ -136,7 +136,8 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Morphological design methodologies of soft robots](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100012)|**The Innovation Informatics 2025**|Soft Robot|-|
 |[Terrain-aware morphology searching algorithm for self-reconfigurable modular robot in dynamic environment](https://www.sciencedirect.com/science/article/pii/S1568494625014954)|**Applied Soft Computing 2025**|Modular Robot|[code](https://github.com/TypeFloat/TAMS)|
 |[Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery](https://arxiv.org/pdf/2510.22336)|**Arxiv 2025**|Humanoid Robot|-|
-|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**IROSw 2025**|Rigid Robot|-|
+|[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**ICRA 2026**|Rigid Robot|[Code](https://github.com/kevinxqiu/robomorph)&[Page](https://robomorph.github.io/)|
+|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**ICML 2026**|Rigid Robot|-|
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
 |[CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids](https://arxiv.org/pdf/2509.14935)|**Arxiv 2025**|Humanoid Robot||
 |[Performance-guided Task-specific Optimization for Multirotor Design](https://arxiv.org/pdf/2510.04724)|**Arxiv 2025**|Multirotor Robot|[Page](https://youtu.be/V6w_DTKWvtc?si=kV4dyNnZw70lNWEf&t=88)|
@@ -416,12 +417,12 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[LASeR: LASeR: Towards Diversified and Generalizable Robot Design with Large Language Models](https://openreview.net/forum?id=7mlvOHL6qJ)|**ICLR 2025**|Modular Soft Robot|[Code](https://github.com/WoodySJR/LASeR)|
 |[RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/pdf/2506.00276?)|**Arxiv 2025**|Rigid Robot|-|
 |[Large Language Models as Natural Selector for Embodied Soft Robot Design](https://arxiv.org/pdf/2503.02249)|**Arxiv 2025**|Modular Soft Robot|[Code](https://github.com/AisenGinn/evogym_data_generation)|
-|[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**ICLRw 2025**|Rigid Robot|-|
+|[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**ICRA 2026**|Rigid Robot|[Code](https://github.com/kevinxqiu/robomorph)&[Page](https://robomorph.github.io/)|
 |[VLMGINEER: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/abs/2507.12644)|**Arxiv 2025**|Rigid Robot|[Page](https://vlmgineer.github.io/release)|
 |[CUDA-Accelerated Soft Robot Neural Evolution with Large Language Model Supervision](https://arxiv.org/pdf/2405.00698v1)|**ICRAw 2024**|Soft Robot|-|
 |[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](https://arxiv.org/pdf/2502.17034)|**Arxiv 2025**|Robot Tools|-|
 |[RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/pdf/2506.14763)|**Arxiv 2025**|Robot Tools|[Page](https://umass-embodied-agi.github.io/RobotSmith/)|
-|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**IROSw 2025**|Rigid Robot|-|
+|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**ICML 2026**|Rigid Robot|-|
 |[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
 |[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
 
