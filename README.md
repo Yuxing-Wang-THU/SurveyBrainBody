@@ -24,7 +24,10 @@ We hope that this survey can serve as a reference-worthy and stimulating contrib
  [🔖Article: Embodied Co-Design Is Revolutionizing How We Create Intelligent Robots](https://dailyneuron.com/embodied-co-design-robot-evolution/)
 
  [🔖麻省理工科技评论 MIT Technology Review: 我设计我自己！清华最新研究：未来机器人不用人设计，AI直接捏出最优形态](https://www.mittrchina.com/news/detail/15865)
+ 
+ [🔖具身智能体脑体协同设计：原理、算法与应用全解析](https://blog.csdn.net/weixin_35752645/article/details/160487033)
 
+[🔖具身协同设计：脑体共进化如何重塑机器人设计范式](https://blog.csdn.net/weixin_30661119/article/details/160487167?fromshare=blogdetail&sharetype=blogdetail&sharerId=160487167&sharerefer=PC&sharesource=linkin00a&sharefrom=from_link)
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
 ```
