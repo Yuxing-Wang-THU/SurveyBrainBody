@@ -116,6 +116,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[House of Dextra: Cross-Embodied Co-Design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**ICLR 2026**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
 |[Identifying Inductive Biases for Robot Co-Design](https://arxiv.org/pdf/2604.11768)|**Arxiv 2026**|Rigid Robot|-|
 |[Social Learning Strategies for Evolved Virtual Soft Robots](https://arxiv.org/pdf/2604.12482)|**GECCO 2026**|Soft Robot|-|
 |[Evolving the Complete Muscle: Efficient Morphology-Control Co-design for Musculoskeletal Locomotion](https://arxiv.org/pdf/2604.12855)|**Arxiv 2026**|Humanoid Robot|-|
@@ -123,34 +124,20 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[SwarmCoDe: A Scalable Co-Design Framework for Heterogeneous Robot Swarms via Dynamic Speciation](https://arxiv.org/abs/2603.26240)|**Arxiv 2026**|Swarm Robot|-|
 |[Creating manufacturable blueprints for coarse-grained virtual robots](https://arxiv.org/abs/2603.13582)|**Arxiv 2026**|Virtual Robot|-|
 |[Efficient and Versatile Quadrupedal Skating: Optimal Co-design via Reinforcement Learning and Bayesian Optimization](https://arxiv.org/abs/2603.18408)|**Arxiv 2026**|Robotic Wheel|-|
-|[Robots that redesign themselves through kinematic self-destruction](https://arxiv.org/abs/2603.12505)|**Arxiv 2026**|Rigid Robot|-|
 |[Robust Co-design Optimisation for Agile Fixed-Wing UAVs](https://arxiv.org/abs/2603.11130)|**Arxiv 2026**|UAVs|-|
 |[Directed Morphological Evolution for Fast Robot Structure Optimization](https://ieeexplore.ieee.org/abstract/document/11354507)|**TEC 2026**|Rigid Robot|-|
 |[Group morphological adaptation via adversarial imitation learning](https://www.sciencedirect.com/science/article/pii/S0952197626001399)|**EAAI 2026**|Rigid Robot|-|
-|[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
 |[Hitting the ‘Gym’: Reinforcement Learning for Control and Co-design of Exercise-Strengthened Biohybrid Robots in Simulation](https://link.springer.com/chapter/10.1007/978-3-032-07448-5_14)|**Living Machines**|Biohybrid Robot|-|
 |[Efficient Morphology–Control Co-Design via Stackelberg PPO under Non-Differentiable Leader–Follower Interfaces](https://openreview.net/forum?id=sJ0vOOkclw)|**ICLR 2026 Sub**|Rigid Robot|-|
 |[Evolving Embodied Intelligence: Graph Neural Network–Driven Co-Design of Morphology and Control in Soft Robotics](https://openreview.net/forum?id=AdfEHMueyc)|**ICLR 2026 Sub**|Modular Soft Robot|-|
-|[MorphoGen: Evolving Robot Morphologies with Large Language Models](https://openreview.net/forum?id=DzZrQsdCbL)|**ICLR 2026 Sub**|Rigid Robot|[Code](https://anonymous.4open.science/r/MorphoGen-ACC/)|
-|[Convergent Functions, Divergent Forms](https://arxiv.org/abs/2505.21665)|**NeurIPS 2025**|Rigid Robot|[Code](https://github.com/yeonsumia/loki)&[Page](https://loki-codesign.github.io/)|
-|[Cross-embodied Co-design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**Arxiv 2025**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
-|[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
 |[Learning to Design Soft Hands using Reward Models](https://arxiv.org/pdf/2510.17086)|**Arxiv 2025**|Robot Manipulator|-|
 |[Morphological design methodologies of soft robots](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100012)|**The Innovation Informatics 2025**|Soft Robot|-|
 |[Terrain-aware morphology searching algorithm for self-reconfigurable modular robot in dynamic environment](https://www.sciencedirect.com/science/article/pii/S1568494625014954)|**Applied Soft Computing 2025**|Modular Robot|[code](https://github.com/TypeFloat/TAMS)|
-|[Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery](https://arxiv.org/pdf/2510.22336)|**Arxiv 2025**|Humanoid Robot|-|
-|[RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/pdf/2407.08626?)|**ICRA 2026**|Rigid Robot|[Code](https://github.com/kevinxqiu/robomorph)&[Page](https://robomorph.github.io/)|
-|[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**ICML 2026**|Rigid Robot|-|
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
 |[CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids](https://arxiv.org/pdf/2509.14935)|**Arxiv 2025**|Humanoid Robot||
 |[Performance-guided Task-specific Optimization for Multirotor Design](https://arxiv.org/pdf/2510.04724)|**Arxiv 2025**|Multirotor Robot|[Page](https://youtu.be/V6w_DTKWvtc?si=kV4dyNnZw70lNWEf&t=88)|
-|[Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot](https://arxiv.org/html/2510.03081v1)|**Arxiv 2025**|Humanoid Robot|-|
-|[Exploring Grammar-Guided Design and Evolution of Polyominoes with Modular Soft Robots](https://assets-eu.researchsquare.com/files/rs-6982435/v1_covered_f8c9b73d-68d3-4ced-9d8a-84c1ed7da10d.pdf?c=1759999150)|**GPEM 2025**|Modular Soft Robot|-|
-|[Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance](https://arxiv.org/pdf/2509.26082)|**Arxiv 2025**|Humanoid Robot|-|
-|[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](https://arxiv.org/pdf/2502.17034)|**Arxiv 2025**|Robot Tools|-|
-|[RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/pdf/2506.14763)|**Arxiv 2025**|Robot Tools|[Page](https://umass-embodied-agi.github.io/RobotSmith/)|
 |[Designing Tools with Control Confidence](https://arxiv.org/pdf/2510.12630)|**Arxiv 2025**|Robot Tools|[Page](https://github.com/ajitham123/Tool_design_control_confidence)|
-|[Learning and Coevolving Robots in Competitive Multi-Agent Environments](https://direct.mit.edu/isal/proceedings/isal2025/37/76/134085)|**ALIFE 2025**|Multi-Agent|[Code](https://github.com/kazukazupi/MARC)&[Page](https://sites.google.com/view/ma-codesign-demonstration/)|
+
 # :one: Bi-Level Co-Design
 <div align=center><img src="images/bilevel.jpg" width="50%"></div>
 
@@ -183,6 +170,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 [Text2Robot: Evolutionary Robot Design from Text Descriptions](https://arxiv.org/pdf/2406.19963)|**ICRA 2025**|Legged Robot|[Code](https://github.com/generalroboticslab/Text2Robot)&[Page](http://www.generalroboticslab.com/blogs/blog/2024-06-28-text2robot/index.html)|
 |[Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance](https://arxiv.org/pdf/2509.26082)|**Arxiv 2025**|Humanoid Robot|-|
 |[Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery](https://arxiv.org/pdf/2510.22336)|**Arxiv 2025**|Humanoid Robot|-|
+|[Learning and Coevolving Robots in Competitive Multi-Agent Environments](https://direct.mit.edu/isal/proceedings/isal2025/37/76/134085)|**ALIFE 2025**|Multi-Agent|[Code](https://github.com/kazukazupi/MARC)&[Page](https://sites.google.com/view/ma-codesign-demonstration/)|
 
 </details>
 	
@@ -360,6 +348,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
 |[Shape change and control of pressure-based soft agents](https://direct.mit.edu/isal/proceedings/isal2022/34/37/112294)|**ALIFE 2022**|Pressure-Based Soft Robot|[Code](https://github.com/pigozzif/PressureSoftAgents)&[Page](https://pressuresoftagents.github.io/)|
 |[DittoGym: Learning to Control Soft Shape-Shifting Robots](https://arxiv.org/pdf/2401.13231)|**ICLR 2024**|Soft Shape-Shifting Robots|[Code](https://github.com/suninghuang19/dittogym)&[Page](https://dittogym.github.io/)|
+|[Robots that redesign themselves through kinematic self-destruction](https://arxiv.org/abs/2603.12505)|**Arxiv 2026**|Rigid Robot|-|
 
 </details>
 
@@ -381,7 +370,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 [Automatic Co-Design of Aerial Robots Using a Graph Grammar](https://cfg.mit.edu/assets/images/ieee-xplore-full-text-pdf-.pdf)|**IROS 2022**|UAV|-|
 |[Synergizing Morphological Computation and Generative Design: Automatic Synthesis of Tendon-Driven Grippers](https://arxiv.org/pdf/2410.07865) |**IROS 2024**|Tendon-Driven Grippers|[Code](https://github.com/aimclub/rostok)&[Page](https://rostok.readthedocs.io/en/latest/)|
 |[Exploring Grammar-Guided Design and Evolution of Polyominoes with Modular Soft Robots](https://assets-eu.researchsquare.com/files/rs-6982435/v1_covered_f8c9b73d-68d3-4ced-9d8a-84c1ed7da10d.pdf?c=1759999150)|**GPEM 2025**|Modular Soft Robot|-|
-|[Cross-embodied Co-design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**Arxiv 2025**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
+|[House of Dextra: Cross-Embodied Co-Design for Dexterous Hands](https://arxiv.org/pdf/2512.03743)|**ICLR 2026**|Robot Manipulator|[Page](https://an-axolotl.github.io/co-design-for-dexterity.github.io/)|
 
 </details>
 
@@ -428,6 +417,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Debate2Create: Robot Co-design via Large Language Model Debates](https://arxiv.org/pdf/2510.25850)|**ICML 2026**|Rigid Robot|-|
 |[Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://arxiv.org/abs/2511.17178)|**Arxiv 2025**|Rigid Robot|-|
 |[RobotDesignGPT: Automated Robot Design Synthesis using Vision Language Models](https://arxiv.org/pdf/2601.11801)|**arxiv 2026**|Vitural Robot|-|
+|[MorphoGen: Evolving Robot Morphologies with Large Language Models](https://openreview.net/forum?id=DzZrQsdCbL)|**ICLR 2026 Sub**|Rigid Robot|[Code](https://anonymous.4open.science/r/MorphoGen-ACC/)|
 
 </details>
 
