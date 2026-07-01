@@ -41,9 +41,11 @@ If you find this survey helpful, please cite our paper:
 
 # 📋 Update List
 
-**2025/01/01**: Happy New Year! I am updating the survey on this topic and will **fully** update the site when the survey is updated to Arxiv.
+**2025/01/01**: **[News]!** Happy New Year! I am updating the survey on this topic and will **fully** update the site when the survey is updated to Arxiv.
 
 **2025/12/01**: **[News]!** Our survey paper is publicly available on Arxiv ([Paper Link](https://arxiv.org/abs/2512.04770)).
+
+**2026/06/26**: **[News]!** Our survey paper is accepted with minor revisions by **IEEE Transactions on Evolutionary Computation (IF=15.9)**.
 
 # 🔥 Comments
 * [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)Feel free to pull requests or contact us if you find any related papers that are not included here.
@@ -116,6 +118,9 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Generating Robot Hands from Human Demonstrations](https://arxiv.org/abs/2606.20549)|**Arxiv 2026**|Robotic Hand|-|
+|[SurGE: Surrogate Gradient-guided Evolution for Co-design of Legged Robots with Parallel Elasticity](https://arxiv.org/abs/2606.21866)|**Arxiv 2026**|Legged Robot|-|
+|[Co-Optimizing Physical Reconfiguration Parameters and Controllers for a Reconfigurable Manipulator](https://ieeexplore.ieee.org/abstract/document/11578131)|**T-mech 2026**|Robot Manipulator|-|
 |[COSMIC: Concurrent Optimization of Structure, Material, and Integrated Control for robotic systems](https://arxiv.org/abs/2605.12654)|**Arxiv 2026**|Rigid Robot|-|
 |[Integrated morphology–control co-design of soft climbing robots via triple hybrid evolution](https://iopscience.iop.org/article/10.1088/2631-8695/ae6973/meta)|**ERE 2026**|Soft Robot|-|
 |[Enhanced Concept-Based Exploration of Manipulators’ Design Spaces – With Kinematics, Dynamics, Control Co-Design, and AI Integration](https://www.preprints.org/manuscript/202605.2034)|**Preprints 2026**|Robotic Arm|-|
@@ -286,6 +291,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Shape Your Body: Value Gradients for Multi-Embodiment Robot Design](https://arxiv.org/abs/2606.00702)|**Arxiv 2026**|Multi Robot|[Page](https://nico-bohlinger.github.io/shape-your-body/)|
 |[Hitting the ‘Gym’: Reinforcement Learning for Control and Co-design of Exercise-Strengthened Biohybrid Robots in Simulation](https://link.springer.com/chapter/10.1007/978-3-032-07448-5_14)|**Living Machines**|Biohybrid Robot|-|
 |[Evolving the Complete Muscle: Efficient Morphology-Control Co-design for Musculoskeletal Locomotion](https://arxiv.org/pdf/2604.12855)|**Arxiv 2026**|Humanoid Robot|-|
+|[Co-Optimizing Physical Reconfiguration Parameters and Controllers for a Reconfigurable Manipulator](https://ieeexplore.ieee.org/abstract/document/11578131)|**T-mech 2026**|Robot Manipulator|-|
 </details>
 
 ## Physics-Based Methods
@@ -320,6 +326,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model](https://arxiv.org/pdf/2503.15009)|**IEEE TRO**|Soft Robot|-|
 |[A Design Co-Pilot for Task-Tailored Manipulators](https://arxiv.org/pdf/2509.13077)|**Arxiv 2025**|Manipulators|[Page](https://cobra.cps.cit.tum.de/tasks?version=2022&metadata__tags=Robot_designer)|
 |[COSMIC: Concurrent Optimization of Structure, Material, and Integrated Control for robotic systems](https://arxiv.org/abs/2605.12654)|**Arxiv 2026**|Rigid Robot|-|
+|[SurGE: Surrogate Gradient-guided Evolution for Co-design of Legged Robots with Parallel Elasticity](https://arxiv.org/abs/2606.21866)|**Arxiv 2026**|Legged Robot|-|
 </details>
 	
 ## Diversity-Based Methods
