@@ -118,6 +118,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion](https://openreview.net/pdf?id=nVhciStASE)|**ICML 2026**|Reconfigurable Robots|-|
 |[Generating Robot Hands from Human Demonstrations](https://arxiv.org/abs/2606.20549)|**Arxiv 2026**|Robotic Hand|-|
 |[SurGE: Surrogate Gradient-guided Evolution for Co-design of Legged Robots with Parallel Elasticity](https://arxiv.org/abs/2606.21866)|**Arxiv 2026**|Legged Robot|-|
 |[Co-Optimizing Physical Reconfiguration Parameters and Controllers for a Reconfigurable Manipulator](https://ieeexplore.ieee.org/abstract/document/11578131)|**T-mech 2026**|Robot Manipulator|-|
@@ -363,6 +364,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[DittoGym: Learning to Control Soft Shape-Shifting Robots](https://arxiv.org/pdf/2401.13231)|**ICLR 2024**|Soft Shape-Shifting Robots|[Code](https://github.com/suninghuang19/dittogym)&[Page](https://dittogym.github.io/)|
 |[Robots that redesign themselves through kinematic self-destruction](https://arxiv.org/abs/2603.12505)|**Arxiv 2026**|Rigid Robot|-|
 |[PINNs-enabled inverse programming of magnetic soft continuum robots: Shape morphing and tip trajectory](https://link.springer.com/article/10.1007/s11433-025-2810-1)|**SCPMA 2026**|Magnetic Soft Robot|-|
+|[Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion](https://openreview.net/pdf?id=nVhciStASE)|**ICML 2026**|Reconfigurable Robots|-|
 </details>
 
 # :three: Generative Co-Design
