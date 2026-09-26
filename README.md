@@ -571,7 +571,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :book: Other Surveys Recommended
 - [Embodied Intelligence Technology for Next-Generation Soft Robots: A Survey](https://www.espublisher.com/journals/articledetails/2073)</br>Jingyu Zhang, Chenyang Shen, Zixin Zhu, Haochuan Tong and Qin Fang, 2026, Engineered Science
 - [Morphological design methodologies of soft robots](https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100012)</br>Beijia Zhang, et al., 2025, The Innovation Informatics
-- [Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot](https://arxiv.org/html/2510.03081v1)</br>Guiliang Liu, et al., 2025, ArXiv Preprint 
+- [Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot](https://arxiv.org/html/2510.03081v1)</br>Guiliang Liu, et al., 2025, NeurIPS 2026 Position Paper Track 
 - [Soft robotics: what’s next in bioinspired design and applications of soft robots?](https://iopscience.iop.org/article/10.1088/1748-3190/ae066d/meta) </br>Cecilia Laschi, Li Wen, Fumiya Iida and others, 2025, Bioinspiration & Biomimetics
 - [Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning](https://dl.acm.org/doi/pdf/10.1145/3717059)</br>Huaping Liu, et al., 2025, ACM Computing Surveys 
 - [Accessible survey of evolutionary robotics and potential future research directions](https://arxiv.org/pdf/2210.11704)</br>Hari Mohan Pandey, Arxiv, 2024  
