@@ -185,6 +185,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](https://arxiv.org/abs/2605.24225)|**ICML 2026**|Endoskeletal Robot|[Page](https://eco-moe.github.io/)|
 |[Evolving Robot Morphology with Manipulation Learning Inspired by Human Hand Evolution](https://ieeexplore.ieee.org/abstract/document/11534892)|**IEEE TEVC**|Robotic Hand|-|
 |[Directed Morphological Evolution for Fast Robot Structure Optimization](https://ieeexplore.ieee.org/abstract/document/11354507)|**IEEE TEVC**|Rigid Robot|-|
+|[Automated Layout and Control Co-Design of Robust Multi-UAV Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10909202)|**RAL 2025**|Multi-Agent UAV|-|
 </details>
 	
 ## Surrogate-Assisted Methods
