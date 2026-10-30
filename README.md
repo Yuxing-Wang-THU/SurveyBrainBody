@@ -564,7 +564,7 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 |[Evolution and learning in differentiable robots](https://arxiv.org/pdf/2405.14712)|**RSS 2024**|Rigid Robot|[Code](https://github.com/lstrgar/ELDiR)&[Page](https://sites.google.com/view/eldir)|
 |[Co-Designing Tools and Control Policies for Robust Manipulation](https://arxiv.org/pdf/2409.11113)|**Arxiv 2024**|Robot Tools|[Page](https://sites.google.com/view/robust-codesign/)|
 |[Soft yet Effective Robots via Holistic Co-Design](https://arxiv.org/pdf/2505.03761)|**Arxiv 2025**|Soft Robot|-|
-
+|[Automated Layout and Control Co-Design of Robust Multi-UAV Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10909202)|**RAL 2025**|Multi-Agent UAV|-|
 
 </details>
 
