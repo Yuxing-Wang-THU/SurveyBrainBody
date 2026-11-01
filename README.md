@@ -118,6 +118,10 @@ The following picture introduces 4 general ECD frameworks, with the last sub-fig
 # :star: Latest ECD Works
 |Paper| Published in |Embodied Agent|Code&Page|                               
 |:---------|:---------------------------------------------------|:-------------:|:-------------|
+|[Co-design Gym: A Unified Benchmark for Embodiment-Policy Co-optimization](https://arxiv.org/abs/2610.02366)|**Arxiv 2026**|-|-|
+|[Identifying and Exploiting Structure in Robot Co-Design](https://ieeexplore.ieee.org/abstract/document/11731507)|**RAL 2026**|-|-|
+|[An Actuator-aware Genetic Algorithm for Soft Robot Design](https://ieeexplore.ieee.org/abstract/document/11727682)|**ICIST 2026**|-|-|
+|[LACE-CRAFT: Robot Co-Design with Actor Inheritance and Blackboard Collaboration](https://arxiv.org/abs/2610.09283)|**Arxiv 2026**|Modular Soft Robot|-|
 |[A New Encoding to Mitigate Representation Biases in Morphological Robot Evolution](https://link.springer.com/chapter/10.1007/978-3-032-36229-2_23)|**PPSN 2026**|-|-|
 |[Morphological Evolution of Aerial Robots: Comparing Genetic Encodings](https://link.springer.com/chapter/10.1007/978-3-032-36229-2_26)|**PPSN 2026**|Aerial Robot|-|
 |[Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning](https://arxiv.org/abs/2608.23100)|**Arxiv 2026**|Modular Robot|-|
